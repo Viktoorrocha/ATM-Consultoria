@@ -17,7 +17,7 @@
         tools:layout_editor_absoluteY="66dp" />
 
     <Button
-        android:id="@+id/button4"
+        android:id="@+id/button_cliente"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/menu_cliente"
@@ -25,7 +25,7 @@
         tools:layout_editor_absoluteY="198dp" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/button_empresa"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/menu_empresa"
@@ -33,7 +33,7 @@
         tools:layout_editor_absoluteY="198dp" />
 
     <Button
-        android:id="@+id/button6"
+        android:id="@+id/button_servicos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/menu_servico"
@@ -41,7 +41,7 @@
         tools:layout_editor_absoluteY="351dp" />
 
     <Button
-        android:id="@+id/button7"
+        android:id="@+id/button_contato"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/menu_contato"
